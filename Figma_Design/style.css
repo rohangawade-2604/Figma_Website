@@ -576,3 +576,29 @@ h2 {
 }
 
 /*---- Footer Section-------- */
+
+.bg-yellow{
+    background-color: #CDA053;
+}
+
+.text-yellow{
+    color:  #CDA053 ;
+}
+
+.question{
+    font-size: 26px;
+    font-family: "Roboto";
+}
+
+.bg-slate-blue{
+    background-color: #1A2932;
+}
+
+.empowering-content {
+    max-width: 563px;
+    max-height: 130px;
+     font-family: "Lora";
+    padding-top: 10px;
+}
+
+
