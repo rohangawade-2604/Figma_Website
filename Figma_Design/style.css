@@ -581,6 +581,10 @@ h2 {
     background-color: #CDA053;
 }
 
+.Lora{
+    font-family: "Lora";
+}
+
 .text-yellow{
     color:  #CDA053 ;
 }
@@ -594,6 +598,11 @@ h2 {
     background-color: #1A2932;
 }
 
+.empowering-wrapper {
+    margin-bottom: 60px;
+}
+
+
 .empowering-content {
     max-width: 563px;
     max-height: 130px;
@@ -601,4 +610,42 @@ h2 {
     padding-top: 10px;
 }
 
+.info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
+.address-info ul {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-weight: 500;
+    font-family: "Lora";
+}
+
+.social-media{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+
+.border-circle{
+    border: 2px solid #FFFFFF66;
+    padding: 15px;
+   border-radius: 30px;
+}
+
+.copyright{
+    margin-top: 30px;
+}
+
+.reserved{
+    text-align: center;
+    border-top: 2px solid  #FFFFFF66;
+    line-height: 2.8;
+    font-weight: 300;
+    font-family: "Roboto";
+    font-style: light;
+    font-size: 16px;
+}
